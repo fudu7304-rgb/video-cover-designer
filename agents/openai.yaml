@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频封面设计师"
+  short_description: "先理解视频，按需补齐要求，提供视觉小样并交付抖音与小红书封面"
+  default_prompt: "使用 $video-cover-designer 分析我提供的视频和已有要求，推荐适合的封面，展示视觉小样，按我的选择修改并交付发布成品。"
